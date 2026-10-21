@@ -1,0 +1,12 @@
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+BOSS-main/Border_Security/venv/
+BOSS-main/Border_Security/detections/
+BOSS-main/Border_Security/surveillance_log.db
+BOSS-main/Border_Security/current_frame.jpg
+

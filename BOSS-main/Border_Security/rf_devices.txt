@@ -1,0 +1,4 @@
+Nearby Wi-Fi Networks
+=====================
+
+1. Smart_Cam | Signal: 100% | RSSI: -50.0 dBm
